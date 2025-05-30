@@ -1,0 +1,4 @@
+strategy:
+  name: EMA
+  params:
+    period: 14
